@@ -1,2 +1,1 @@
-# pythonProj
-test python code
+update the readme file again !!!
