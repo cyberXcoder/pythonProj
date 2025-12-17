@@ -1,5 +1,5 @@
 print("hello world")
 print("python is fun!")
-for i in range(5,10):
-    print(f"Number: {i}")
+for i in range(1,10):
+    print(i)
 print("Goodbye!")   
